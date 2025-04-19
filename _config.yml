@@ -1,0 +1,9 @@
+title: 개인정보 처리방침
+description: 짱픽
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+github:
+  pdf_url: /Zznpk-Privacy-Policy/assets/downloads/privacy_policy_짱픽.pdf
+plugins:
+  - jekyll-seo-tag
